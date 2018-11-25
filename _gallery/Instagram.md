@@ -5,7 +5,7 @@ caption: Το Instagram είναι μια δωρεάν εφαρμογή κοιν
 license_url :https://el.wikipedia.org/wiki/Instagram
 title: Instagram
 categories:Υπηρεσία κοινωνικής δικτύωσης
-  - tools
+ 
 ---
 
 
