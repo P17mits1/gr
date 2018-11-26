@@ -6,6 +6,6 @@ caption: Cloud είναι ένα σύννεφο αποθήκευσης και τ
 license_url : https://commons.wikimedia.org/wiki/File:Icloud_logo.PNG
 title: iCloud
 categories:
- -Αποθήκευση
+  -Αποθήκευση
   
 ---
